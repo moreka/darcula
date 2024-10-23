@@ -12,11 +12,11 @@ if exists("syntax_on")
 endif
 
 let g:colors_name='darcula'
-
+" fg was #A9B7C6
 let s:p={
       \ 'null': ['NONE', 'NONE'],
-      \ 'bg': ['#2B2B2B', 235],
-      \ 'fg': ['#A9B7C6', 145],
+      \ 'bg': ['#242424', 235],
+      \ 'fg': ['#CCCCCC', 145],
       \ 'cursor': ['#BBBBBB', 250],
       \ 'identifierUnderCaret': ['#344134', 237],
       \ 'identifierUnderCaretWrite': ['#40332B', 58],
